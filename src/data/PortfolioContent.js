@@ -240,7 +240,7 @@ export const PortfolioContent = {
         ],
         liveUrl: "https://logi-command.vercel.app",
         githubUrl:
-          "https://github.com/prajwalsiiriyan-connect/LogiCommand"
+          "https://github.com/prajwalsiriyan-connect"
       },
       {
         id: 2,
@@ -257,7 +257,7 @@ export const PortfolioContent = {
         ],
         liveUrl: "",
         githubUrl:
-          "https://github.com/prajwalsiiriyan-connect/ResumeGuard-AI"
+          "https://github.com/prajwalsiriyan-connect"
       }
     ]
   },
@@ -289,7 +289,7 @@ export const PortfolioContent = {
   {
     name: "GitHub",
     icon: "https://cdn.simpleicons.org/github/FFFFFF",
-    url: "https://github.com/prajwalsiiriyan-connect"
+    url: "https://github.com/prajwalsiriyan-connect"
   },
   {
     name: "LinkedIn",
